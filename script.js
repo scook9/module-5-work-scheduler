@@ -14,7 +14,6 @@ $(function () {
         localStorage.getItem(timeBlockEls[i].id)
       );
     }
-    console.log(timeBlockEls[i].id);
   }
 
   // set id of each block to past, present, or future
